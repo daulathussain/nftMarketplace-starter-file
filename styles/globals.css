@@ -6,8 +6,7 @@
   --icons-light-color: #4c577341;
   --icons-bg-color: #e2e6e9;
   --shadow-dark-color: #d3dae7;
-  --shadow-light-color: #fff;
-  --main-bg-color: #ecf0f3;
+  --main-bg-color: #151617;
 
   --box-shadow: 1rem 1rem 1rem var(--shadow-dark-color),
   -1rem -1rem 1rem var(--shadow-light-color);
@@ -16,7 +15,6 @@
   -.3rem -.3rem 1rem var(--shadow-dark-color)
 
 }
-
 html,
 body {
   padding: 0;

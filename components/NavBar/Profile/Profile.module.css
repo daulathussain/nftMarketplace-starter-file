@@ -1,0 +1,46 @@
+.profile{
+    position: absolute;
+    padding: 2rem .5rem;
+    box-shadow: var(--box-shadow);
+    font-size: 1rem;
+    width: 20rem;
+    border-radius: 1rem;
+
+    left: -17rem;
+    top: 4.5rem;
+    z-index: 22222222222;
+    background-color: var(--main-bg-color);
+}
+
+.profile_account{
+    display: flex;
+    align-items: flex-start;
+    gap: 2rem;
+    padding: 1.5rem;
+}
+
+.profile_account_img{
+    border-radius: 50%;
+}
+
+.profile_account_info{
+    line-height: 0.3;
+}
+
+.profile_account_info p{
+    font-weight: 600;
+}
+
+.profile_menu_one_item{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    padding: 0rem 1.5rem;
+    transition:  all .3s ease-in;
+}
+
+.profile_menu_one_item:hover{
+    background-color: var(--icons-color);
+    color: var(--shadow-dark-color);
+    border-radius: .3rem;
+}
