@@ -17,7 +17,7 @@ Kindly follow the following Instructions to run the project in your system and i
 - [Final Source Code](https://www.theblockchaincoders.com/sourceCode/nft-marketplace-project-source-code)
 
 #### Setup Video
-- [Final Code Setup video](https://youtu.be/DKWqBqZDh74?si=7CUfjABG3zxRC4dt)
+- [Final Code Setup video](https://youtu.be/w3IsLQxXTvo?si=PtRxR-o4kwlAWZga)
 
 ```https://code.visualstudio.com/download
   WATCH: Setup & Demo Of Project
