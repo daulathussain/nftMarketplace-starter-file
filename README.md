@@ -37,6 +37,13 @@ Kindly follow the following Instructions to run the project in your system and i
   NPM: 8.19.2
 ```
 
+#### Pinata
+
+```https://pinata.cloud
+ GET PINATA API KEY
+ GET PINATA SECRET KEY
+```
+
 #### Clone Starter File
 
 ```https://github.com/daulathussain/Airdrop-Crypto-Starter-File
